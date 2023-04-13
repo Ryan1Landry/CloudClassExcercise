@@ -7,3 +7,8 @@ W0472620
 Function do-Average ($CValue, $DValue) {
 return (($CValue + $DValue)/2)
 }
+
+W0212912
+Function do-pow ($CValue, $DValue) {
+return (($CValue+$DValue)*($CValue+$DValue))
+}
