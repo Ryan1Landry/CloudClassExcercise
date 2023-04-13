@@ -10,5 +10,5 @@ function do-division ($CValue, $DValue {
 
 W0212912
 function do-multiplication ($EValue, $FValue {
-  return $EValue/FDValue
+  return $EValue*FDValue
 }
