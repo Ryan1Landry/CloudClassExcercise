@@ -1,9 +1,14 @@
 #W0472957
-fuction do-division ($Avlaue, $Bvalue) {
+function do-division ($Avlaue, $Bvalue) {
   return $Avalue + $Bvalue
 }
 
 W0472620
 function do-modulardivision ($CValue, $DValue){
   Return $DValue % %CValue
+}
+
+#W0212912
+function do-min ($Evalue, $Fvalue) {
+return (math.max($Evalue, $Fvalue))
 }
