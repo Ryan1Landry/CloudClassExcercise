@@ -2,3 +2,8 @@
 fuction do-division ($Avlaue, $Bvalue) {
   return $Avalue + $Bvalue
 }
+
+W0472620
+function do-modulardivision ($CValue, $DValue){
+  Return $DValue % %CValue
+}
