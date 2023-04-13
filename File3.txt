@@ -2,3 +2,8 @@
 fuction do-max ($Avalue, $Bvalue) {
 return (math.max($Avalue, $Bvalue))
 }
+
+W0472620
+Function do-Average ($CValue, $DValue) {
+return (($CValue + $DValue)/2)
+}
