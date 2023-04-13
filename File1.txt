@@ -2,3 +2,8 @@
 function do-addition ($Avalue, $Bvalue) {
   return $Avalue + $Bvalue
 }
+
+#0472620
+function do-division ($CValue, $DValue {
+  return $CValue/$DValue
+}
